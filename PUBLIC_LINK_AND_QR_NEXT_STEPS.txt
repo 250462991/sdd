@@ -1,0 +1,10 @@
+I cannot directly upload files to a public hosting account from this chat environment because I do not have access to your hosting account or permission to publish externally.
+
+Use webpage-public-hosting-package.zip with any static hosting service. The ZIP contains a single index.html file, so the page will open automatically at the hosted root URL.
+
+Fast options:
+1. Netlify Drop: open https://app.netlify.com/drop and drag webpage-public-hosting-package.zip or the extracted folder. Copy the generated https://...netlify.app link.
+2. GitHub Pages: create a repository, upload index.html, enable Pages, then copy the Pages URL.
+3. School/server/SharePoint public site: upload index.html and copy the public page URL.
+
+After you have the public URL, send it here and I can generate a new QR code that points directly to that live webpage.
